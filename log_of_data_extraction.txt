@@ -1,0 +1,5 @@
+the file seems to exist.
+the file name seems to be correct.
+two variables exist
+data specification satisfied.
+time length same as data
